@@ -1,9 +1,6 @@
 
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" width="660"/>
-</div>
 <div align="center"> <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100"/> </div>
 <div align="left">
   <p>
