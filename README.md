@@ -34,9 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxshymanskiy&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-## 📫 Contact Me:
-📧 Email: <a href="mailto:maksym.shymanskyi.ri.2024@lpnu.ua">maksym.shymanskyi.ri.2024@lpnu.ua</a>
-
----
+  ---
