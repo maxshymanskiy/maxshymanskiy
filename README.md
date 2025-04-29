@@ -32,5 +32,3 @@
 <p align="center">
    <img style="margin-left: 50px;" src="https://awesome-github-stats.azurewebsites.net/user-stats/maxshymanskiy?cardType=github&preferLogin=false" alt="maxshymanskiy's GitHub Stats" />
 </p>
-
-  ---
