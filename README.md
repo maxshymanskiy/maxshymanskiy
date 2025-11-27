@@ -7,15 +7,13 @@ $ cat /home/maxshymanskiy/README.md
 
 Hello, I'm Maksym Shymanskiy.
 
-I'm a student exploring how things work.  
-I enjoy learning and finding clarity in complexity
+I'm a student who enjoys exploring how things work.  
 
-===================================================
-> exploring where human thought meets machine logic
-> discovering how systems function
-> solving before coding, thinking before doing
-===================================================
+============================
+> find the logic 
+> think first, code second
+> map problems to solutions
+============================
 
-$ echo "still learning..."
-still learning...
+$ echo "still learning..." # Always.
 ```
